@@ -1,3 +1,5 @@
 # Docs  
 ## Тестовая документация  
-[Чек-лист для тестирования регистрации, логина и каталога](https://docs.google.com/spreadsheets/d/1DBy5Og6G6nkkK5SFoYW0cLyOVFsuHfI6qoGRbRtIudY/edit?usp=sharing)
+[Чек-лист для тестирования регистрации, логина и каталога](https://docs.google.com/spreadsheets/d/1DBy5Og6G6nkkK5SFoYW0cLyOVFsuHfI6qoGRbRtIudY/edit?usp=sharing)  
+
+Тест-кейсы для тестирования регистрации, логина и каталога: [Ссылка в Qase](https://app.qase.io/project/G101?previewMode=side&suite=172&tab=properties)
